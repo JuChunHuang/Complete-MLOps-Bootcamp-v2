@@ -89,6 +89,10 @@ prediction_model
     └── test_prediction.py
 ```
 
+# Create setup.py
+
+1. Install setuptools
+`pip install --upgrade setuptools` and `pip install --upgrade build`
 
 # Build the Package
 
